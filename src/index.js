@@ -10,7 +10,7 @@ const App = () => (
     <NameTag name = {"Samar"} />
     <NameTag name = {"Becky"} />
   </div>
-);
+); 
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
